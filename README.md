@@ -10,6 +10,7 @@ Designed specifically for on-site training, the manual reflects the practical kn
 Preserved here for historical and educational purposes, these documents offer a valuable window into the structured approach to trades training in one of Australia’s major industrial facilities.
 
 <P></P>
+<HR>
 
 Module 1 - Manufacturing Processes <BR>
 Module 2 - Assembly and Disassembly Processes<BR>
