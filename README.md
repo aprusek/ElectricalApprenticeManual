@@ -32,3 +32,4 @@ Module 15 - Illumination<BR><BR>
 Module 16 - Electrical Machines<BR>
 Module 17 - Electricla Machines cont.<BR>
 Module 18 - Electrical Safety<BR>
+<hr>
