@@ -1,7 +1,7 @@
 <h1>Electrical Apprentice Manual </h1>
 <h2>Whyalla Steelworks 1981</h2>
 
-<h3>Introduction</h3>h3>
+<h3>Introduction</h3>
 
 This collection of scanned documents comprises the Electrical Apprentice Manual from the Whyalla Steelworks, dating to around 1981. Developed by the supervisors of the Electrical Apprentice Training Shop, this manual served as essential instructional material, supplementing the formal education apprentices received at TAFE.
 <p></p>
@@ -11,7 +11,7 @@ Preserved here for historical and educational purposes, these documents offer a 
 
 <P></P>
 <HR>
-<h3>Table of Contents</h3>h3>
+<h3>Table of Contents</h3>
 Index<BR><BR>
 Module 01 - Manufacturing Processes <BR>
 Module 02 - Assembly and Disassembly Processes<BR>
