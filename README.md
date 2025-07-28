@@ -12,6 +12,7 @@ Preserved here for historical and educational purposes, these documents offer a 
 <P></P>
 <HR>
 <h3>Table of Contents</h3>
+Introduction and Work Record<BR>
 Index<BR><BR>
 Module 01 - Manufacturing Processes <BR>
 Module 02 - Assembly and Disassembly Processes<BR>
