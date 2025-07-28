@@ -11,16 +11,17 @@ Preserved here for historical and educational purposes, these documents offer a 
 
 <P></P>
 <HR>
-
-Module 1 - Manufacturing Processes <BR>
-Module 2 - Assembly and Disassembly Processes<BR>
-Module 3 - Power Driven Machines<BR><BR>
-Module 4 - Abrasives and Finishing Processes<BR>
-Module 5 - Drawing, Geometry abd Maths<BR>
-Module 6 - Safety<BR><BR>
-Module 7 - Tools & Wiring Practices<BR>
-Module 8 - Electrical Naterials and Their Uses<BR>
-Module 9 - SAA Wining Rules<BR><BR>
+Table of Contents <BR><BR>
+Index<BR>
+Module 01 - Manufacturing Processes <BR>
+Module 02 - Assembly and Disassembly Processes<BR>
+Module 03 - Power Driven Machines<BR><BR>
+Module 04 - Abrasives and Finishing Processes<BR>
+Module 05 - Drawing, Geometry abd Maths<BR>
+Module 06 - Safety<BR><BR>
+Module 07 - Tools & Wiring Practices<BR>
+Module 08 - Electrical Naterials and Their Uses<BR>
+Module 09 - SAA Wining Rules<BR><BR>
 Module 10 - Electrical Drawing & Circuitry<BR>
 Module 11 - DC Theory<BR>
 Module 12 - AC Theory<BR><BR>
