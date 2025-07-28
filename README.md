@@ -1,6 +1,15 @@
 <h1>Electrical Apprentice Manual </h1>
 <h2>Whyalla Steelworks 1981</h2>
 
+Introduction
+
+This collection of scanned documents comprises the Electrical Apprentice Manual from the Whyalla Steelworks, dating to around 1981. Developed by the supervisors of the Electrical Apprentice Training Shop, this manual served as essential instructional material, supplementing the formal education apprentices received at TAFE.
+<p></p>
+Designed specifically for on-site training, the manual reflects the practical knowledge, procedures, and standards relevant to the Steelworks' operations at the time. It covers core competencies required of electrical apprentices, providing a unique insight into the trade practices, safety expectations, and technical instruction of the era.
+<p></p>
+Preserved here for historical and educational purposes, these documents offer a valuable window into the structured approach to trades training in one of Australia’s major industrial facilities.
+
+<P></P>
 
 Module 1 - Manufacturing Processes <BR>
 Module 2 - Assembly and Disassembly Processes<BR>
