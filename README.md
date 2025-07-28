@@ -1,7 +1,7 @@
 # ElectricalApprenticeManual
 
 
-Module 1 - Manufacturing Processes
+Module 1 - Manufacturing Processes <BR>
 Module 2 - Assembly and Disassembly Processes
 Module 3 - Power Driven Machines
 Module 4 - Abrasives and Finishing Processes
