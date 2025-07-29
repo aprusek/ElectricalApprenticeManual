@@ -34,4 +34,4 @@ Module 17 - Electricla Machines cont.<BR>
 Module 18 - Electrical Safety<BR>
 <hr>
 <h3>Links to Scanned Files</h3>
-<a href="[src/Test.java](https://github.com/aprusek/ElectricalApprenticeManual/tree/main/Low%20Resolution)">Low Resolution Scans of the Manual</a>
+<a href="https://github.com/aprusek/ElectricalApprenticeManual/tree/main/Low%20Resolution">Low Resolution Scans of the Manual</a>
