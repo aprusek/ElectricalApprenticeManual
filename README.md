@@ -33,4 +33,4 @@ Module 16 - Electrical Machines<BR>
 Module 17 - Electricla Machines cont.<BR>
 Module 18 - Electrical Safety<BR>
 <hr>
-[Low Resolution Scanns of the Manual](https://github.com/aprusek/ElectricalApprenticeManual/tree/main/Low%20Resolution)
+[Low Resolution Scans of the Manual]: https://github.com/aprusek/ElectricalApprenticeManual/tree/main/Low%20Resolution
