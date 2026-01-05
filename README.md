@@ -49,7 +49,7 @@ Module 15 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/
 Module 16 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2016.pdf">
   Electrical Machines </a><BR>
 Module 17 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2016.pdf">
-  Electricla Machines cont. </a><BR>
+  Electrical Machines cont. </a><BR>
 Module 18 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2018.pdf">
   Electrical Safety </a><BR>
 <hr>
