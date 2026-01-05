@@ -14,7 +14,7 @@ Preserved here for historical and educational purposes, these documents offer a 
 <h3>Table of Contents</h3>
 Introduction and Work Record<BR>
 Index<BR><BR>
-Module 01 - Manufacturing Processes <BR>
+Module 01 - Manufacturing Processes  <A>https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf</A><BR>
 Module 02 - Assembly and Disassembly Processes<BR>
 Module 03 - Power Driven Machines<BR><BR>
 Module 04 - Abrasives and Finishing Processes<BR>
