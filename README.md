@@ -33,7 +33,7 @@ Module 07 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/
 Module 08 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2008.pdf">
   Electrical Naterials and Their Uses </a><BR>
 Module 09 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2009.pdf">
-  SAA Wining Rules </a><BR><BR>
+  SAA Wiring Rules </a><BR><BR>
 Module 10 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2010.pdf">
   Electrical Drawing & Circuitry </a><BR>
 Module 11 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2011.pdf">
