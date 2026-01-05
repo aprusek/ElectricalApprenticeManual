@@ -12,9 +12,10 @@ Preserved here for historical and educational purposes, these documents offer a 
 <P></P>
 <HR>
 <h3>Table of Contents</h3>
-<a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf>
+<a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf">
   Introduction and Work Record </a><BR>
-Index<BR><BR>
+<a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/02%20Index.pdf">
+  Index<BR><BR>
 Module 01 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf"> 
   Manufacturing Processes</a> <BR>
 Module 02 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/02%20Index.pdf">
