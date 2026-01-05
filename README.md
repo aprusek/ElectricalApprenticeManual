@@ -12,26 +12,26 @@ Preserved here for historical and educational purposes, these documents offer a 
 <P></P>
 <HR>
 <h3>Table of Contents</h3>
-Introduction and Work Record<BR>
+Introduction and Work Record<BR> <a href="url">link text</a>
 Index<BR><BR>
-Module 01 - Manufacturing Processes  <A>https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf</A><BR>
-Module 02 - Assembly and Disassembly Processes<BR>
-Module 03 - Power Driven Machines<BR><BR>
-Module 04 - Abrasives and Finishing Processes<BR>
-Module 05 - Drawing, Geometry abd Maths<BR>
-Module 06 - Safety<BR><BR>
-Module 07 - Tools & Wiring Practices<BR>
-Module 08 - Electrical Naterials and Their Uses<BR>
-Module 09 - SAA Wining Rules<BR><BR>
-Module 10 - Electrical Drawing & Circuitry<BR>
-Module 11 - DC Theory<BR>
-Module 12 - AC Theory<BR><BR>
-Module 13 - Electromagetism<BR>
-Module 14 - Instruments<BR>
-Module 15 - Illumination<BR><BR>
-Module 16 - Electrical Machines<BR>
-Module 17 - Electricla Machines cont.<BR>
-Module 18 - Electrical Safety<BR>
+Module 01 - <a href="[url](https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf)">  Manufacturing Processes</a>   <A></A><BR>
+Module 02 - <a href="url">Assembly and Disassembly Processes</a><BR>
+Module 03 - <a href="url">Power Driven Machines</a><BR><BR>
+Module 04 - <a href="url">Abrasives and Finishing Processes/a><BR>
+Module 05 - <a href="url">Drawing, Geometry abd Maths</a><BR>
+Module 06 - <a href="url">Safety</a><BR><BR>
+Module 07 - <a href="url">Tools & Wiring Practices/a><BR>
+Module 08 - <a href="url">Electrical Naterials and Their Usest</a><BR>
+Module 09 - <a href="url">SAA Wining Rules</a><BR><BR>
+Module 10 - <a href="url">Electrical Drawing & Circuitry</a><BR>
+Module 11 - <a href="url">DC Theory</a><BR>
+Module 12 - <a href="url">AC Theory</a><BR><BR>
+Module 13 - <a href="url">Electromagetism</a><BR>
+Module 14 - <a href="url">Instruments</a><BR>
+Module 15 - <a href="url">Illumination</a><BR><BR>
+Module 16 - <a href="url">Electrical Machines</a><BR>
+Module 17 - <a href="url">Electricla Machines cont.</a><BR>
+Module 18 - <a href="url">Electrical Safety</a><BR>
 <hr>
 <h3>Links to Scanned Files</h3>
 <a href="https://github.com/aprusek/ElectricalApprenticeManual/tree/main/Low%20Resolution">Low Resolution Scans of the Manual</a>
