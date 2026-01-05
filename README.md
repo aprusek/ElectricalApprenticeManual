@@ -24,33 +24,33 @@ Module 03 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/
   Power Driven Machines </a><BR><BR>
 Module 04 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2004.pdf">
   Abrasives and Finishing Processes </a><BR>
-Module 05 - <a href="url">
+Module 05 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2005.pdf">
   Drawing, Geometry abd Maths </a><BR>
-Module 06 - <a href="url">
+Module 06 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2006.pdf">
   Safety </a><BR><BR>
-Module 07 - <a href="url">
+Module 07 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2007.pdf">
   Tools & Wiring Practices </a><BR>
-Module 08 - <a href="url">
+Module 08 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2008.pdf">
   Electrical Naterials and Their Uses </a><BR>
-Module 09 - <a href="url">
+Module 09 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2009.pdf">
   SAA Wining Rules </a><BR><BR>
-Module 10 - <a href="url">
+Module 10 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2010.pdf">
   Electrical Drawing & Circuitry </a><BR>
-Module 11 - <a href="url">
+Module 11 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2011.pdf">
   DC Theory </a><BR>
-Module 12 - <a href="url">
+Module 12 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2012.pdf">
   AC Theory </a><BR><BR>
-Module 13 - <a href="url">
+Module 13 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2013.pdf">
   Electromagetism </a><BR>
-Module 14 - <a href="url">
+Module 14 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2014.pdf">
   Instruments </a><BR>
-Module 15 - <a href="url">
+Module 15 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2015.pdf">
   Illumination </a><BR><BR>
-Module 16 - <a href="url">
+Module 16 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2016.pdf">
   Electrical Machines </a><BR>
-Module 17 - <a href="url">
+Module 17 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2016.pdf">
   Electricla Machines cont. </a><BR>
-Module 18 - <a href="url">
+Module 18 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2018.pdf">
   Electrical Safety </a><BR>
 <hr>
 <h3>Links to Scanned Files</h3>
