@@ -15,14 +15,14 @@ Preserved here for historical and educational purposes, these documents offer a 
 <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf">
   Introduction and Work Record </a><BR>
 <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/02%20Index.pdf">
-  Index<BR><BR>
-Module 01 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf"> 
+  Index </a> <BR><BR>
+Module 01 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2001.pdf"> 
   Manufacturing Processes</a> <BR>
-Module 02 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/02%20Index.pdf">
+Module 02 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2002.pdf">
   Assembly and Disassembly Processes </a><BR>
-Module 03 - <a href="url">
+Module 03 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2003.pdf">
   Power Driven Machines </a><BR><BR>
-Module 04 - <a href="url">
+Module 04 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2004.pdf">
   Abrasives and Finishing Processes </a><BR>
 Module 05 - <a href="url">
   Drawing, Geometry abd Maths </a><BR>
