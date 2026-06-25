@@ -14,7 +14,6 @@ Preserved here for historical and educational purposes, these documents offer a 
 <h3>Table of Contents</h3>
 <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf">
   Introduction and Work Record </a><BR>
-<embed src="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/01%20Intro%20and%20Work%20Record.pdf" type="application/pdf" width="500" height="200" />
 <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/02%20Index.pdf">
   Index </a> <BR><BR>
 Module 01 - <a href="https://github.com/aprusek/ElectricalApprenticeManual/blob/main/Low%20Resolution/Module%2001.pdf"> 
